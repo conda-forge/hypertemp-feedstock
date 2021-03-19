@@ -18,7 +18,7 @@ build:
     - hypertemp = hypertemp.cli:main
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
   run:
